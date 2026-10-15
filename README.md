@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:064E3B,100:10B981&height=240&section=header&text=Budget%20Planning%20Agent&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SMART%20BUDGETING%20%7C%20FINANCIAL%20ANALYTICS%20%7C%20BETTER%20SAVINGS&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="Budget Planning Agent Header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06142E,45:0759C7,75:087CFB,100:00D4FF&height=250&section=header&text=Budget%20Planning%20Agent&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=SMART%20BUDGETING%20%7C%20FINANCIAL%20ANALYTICS%20%7C%20BETTER%20SAVINGS&descSize=13&descAlignY=62&animation=fadeIn" width="100%" alt="Budget Planning Agent Blue Header"/>
 
 <br/>
 
-### 💰 Take Control of Your Money. Plan a Better Future.
+### 💎 Take Control of Your Money. Plan a Better Future.
 
 An intelligent budget management application to track income, manage expenses, analyze spending patterns, and visualize financial insights.
 
@@ -13,8 +13,8 @@ An intelligent budget management application to track income, manage expenses, a
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+<img src="https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Chart.js-00A6FB?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
@@ -30,7 +30,7 @@ An intelligent budget management application to track income, manage expenses, a
 
 **Budget Planning Agent** is a web-based financial management application designed to help users organize their personal finances efficiently.
 
-The application allows users to record income and expenses, categorize transactions, monitor their spending habits, and understand their financial position through an interactive dashboard.
+The application allows users to record income and expenses, categorize transactions, monitor spending habits, and understand their financial position through an interactive dashboard.
 
 By presenting financial information in a clear and visual format, the project aims to make budgeting easier and support smarter financial decisions.
 
@@ -67,8 +67,6 @@ By presenting financial information in a clear and visual format, the project ai
 
 ## 📊 Dashboard Insights
 
-The application can present the following financial metrics, depending on the implemented features:
-
 | Metric | Description |
 |---|---|
 | Total Income | Total income recorded |
@@ -84,16 +82,14 @@ Follow these steps to run the application locally.
 
 ### Prerequisites
 
-Make sure you have installed:
-
 - Python 3.x
 - pip
 - Git
-- A code editor such as Visual Studio Code
+- Visual Studio Code or another code editor
 
 ### 1. Clone the Repository
 
-Replace the URL with your actual GitHub repository URL.
+Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
@@ -105,15 +101,13 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 cd Budget-Planning-Agent
 ```
 
-Use your actual project folder name if it is different.
-
 ### 3. Create a Virtual Environment
 
 ```bash
 python -m venv venv
 ```
 
-### 4. Activate the Virtual Environment
+### 4. Activate the Environment
 
 **Windows:**
 
@@ -123,13 +117,13 @@ venv\Scripts\activate
 
 ### 5. Install Dependencies
 
-If your repository contains a `requirements.txt` file:
+If your project contains a `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-If you do not have that file yet, install the packages your application actually requires. For example:
+If you do not have a requirements file, install the packages your application actually uses. For example:
 
 ```bash
 pip install flask
@@ -145,7 +139,7 @@ python app.py
 
 ### 7. Open the Application
 
-Visit the local URL displayed in your terminal. For a typical Flask development server, this is:
+Visit the local URL displayed in your terminal. A typical Flask development server uses:
 
 ```text
 http://127.0.0.1:5000
@@ -153,7 +147,7 @@ http://127.0.0.1:5000
 
 ## 📁 Project Structure
 
-The following is an example structure. Adjust it to match your actual files.
+The following is an example structure. Update it to match your actual project files.
 
 ```text
 Budget-Planning-Agent/
@@ -194,7 +188,7 @@ Budget-Planning-Agent/
 
 ### Rajasekaran S
 
-AI & Data Science Student | Aspiring Software Developer
+**AI & Data Science Student | Aspiring Software Developer**
 
 *Building practical projects and continuously improving technical skills.*
 
@@ -208,10 +202,10 @@ This project is developed for educational and learning purposes. Add an appropri
 
 <div align="center">
 
-### 💚 Plan Smart. Spend Wisely. Save Better.
+### 💙 Plan Smart. Spend Wisely. Save Better.
 
 **If you find this project interesting, consider giving the repository a ⭐ star!**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10B981,100:0B1220&height=80&section=footer" width="100%" alt="Green Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:087CFB,100:06142E&height=100&section=footer" width="100%" alt="Blue Gradient Footer"/>
 
 </div>
