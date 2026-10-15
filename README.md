@@ -1,5 +1,4 @@
 <div align="center">
-<img width="1200" height="475" alt="BUDGET PLANNING AGENT " src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
 This contains everything you need to run your app locally.
